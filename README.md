@@ -1,6 +1,6 @@
 # JCBRUSTBOT
 
-##Things you need:
+## Things you need:
 node.js
 
 ### 1.Setup your discord bot token and discord application id in index.js located at config folder (u can find token and id here https://discord.com/developers/applications
